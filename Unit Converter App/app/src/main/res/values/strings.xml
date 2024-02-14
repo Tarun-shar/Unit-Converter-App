@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Unit Converter App</string>
+
+    <string-array name="AreaUnits">
+        <item>Square Kilometer</item>
+        <item>Square meter</item>
+        <item>Square mile</item>
+        <item>Square yard</item>
+        <item>Square foot</item>
+        <item>Square inch</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+    </string-array>
+
+    <string-array name="TimeUnits">
+        <item>Nanosecond</item>
+        <item>Microsecond</item>
+        <item>Millisecond</item>
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Calendar year</item>
+        <item>Decade</item>
+        <item>Century</item>
+    </string-array>
+
+    <string-array name="FrequencyUnits">
+        <item>Hertz</item>
+        <item>Kilohertz</item>
+        <item>Megahertz</item>
+        <item>Gigahertz</item>
+    </string-array>
+
+    <string-array name="FuelEconomyUnits">
+        <item>Miles per gallon</item>
+        <item>Miles per gallon (Imperial)</item>
+        <item>Kilometer per liter</item>
+        <item>Liter per 100 kilometers</item>
+    </string-array>
+
+    <string-array name="PressureUnits">
+        <item>Bar</item>
+        <item>Pascal</item>
+        <item>Pound per square inch</item>
+        <item>Standard atmosphere</item>
+        <item>Torr</item>
+    </string-array>
+
+    <string-array name="SpeedUnits">
+        <item>Mile per hour</item>
+        <item>Foot per second</item>
+        <item>Meter per second</item>
+        <item>Kilometer per hour</item>
+        <item>Knot</item>
+    </string-array>
+
+    <string-array name="LengthUnits">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Nautical Mile</item>
+    </string-array>
+
+    <string-array name="TemperatureUnits">
+        <item>Celsius(°C)</item>
+        <item>Kelvin(K)</item>
+        <item>Fahrenheit(°F)</item>
+        <item>Rankine(°R)</item>
+    </string-array>
+
+    <string-array name="WeightUnits">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Metric Ton</item>
+        <item>Long Ton</item>
+        <item>Short Ton</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Carat</item>
+        <item>Atomic Mass Unit</item>
+    </string-array>
+
+    <string-array name="VolumeUnits">
+        <item>US liquid gallon</item>
+        <item>US liquid quart</item>
+        <item>US liquid pint</item>
+        <item>US legal cup</item>
+        <item>Fluid ounce</item>
+        <item>US tablespoon</item>
+        <item>US teaspoon</item>
+        <item>Cubic meter</item>
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>Imperial gallon</item>
+        <item>Imperial quart</item>
+        <item>Imperial cup</item>
+        <item>Imperial pint</item>
+        <item>Imp. fluid ounce</item>
+        <item>Imperial tablespoon</item>
+        <item>Imperial teaspoon</item>
+        <item>Cubic foot</item>
+        <item>Cubic inch</item>
+    </string-array>
+
+    <string-array name="PlaneAngleUnits">
+        <item>Arcsecond</item>
+        <item>Degree</item>
+        <item>Gradian</item>
+        <item>Milliradian</item>
+        <item>Minute of arc</item>
+        <item>Radian</item>
+    </string-array>
+
+    <string-array name="EnergyUnits">
+        <item>Joule</item>
+        <item>Kilojoule</item>
+        <item>Gram calorie</item>
+        <item>Kilocalorie</item>
+        <item>Watt hour</item>
+        <item>Kilowatt hour</item>
+        <item>Electronvolt</item>
+        <item>British thermal unit</item>
+        <item>US therm</item>
+        <item>Foot-pound</item>
+    </string-array>
+
+    <string-array name="DigitalStorageUnits">
+        <item>Bit</item>
+        <item>Kilobit</item>
+        <item>Kibibit</item>
+        <item>Megabit</item>
+        <item>Mebibit</item>
+        <item>Gigabit</item>
+        <item>Gibibit</item>
+        <item>Terabit</item>
+        <item>Tebibit</item>
+        <item>Petabit</item>
+        <item>Pebibit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Kibibyte</item>
+        <item>Megabyte</item>
+        <item>Mebibyte</item>
+        <item>Gigabyte</item>
+        <item>Gibibyte</item>
+        <item>Terabyte</item>
+        <item>Tebibyte</item>
+        <item>Petabyte</item>
+        <item>Pebibyte</item>
+    </string-array>
+
+</resources>
